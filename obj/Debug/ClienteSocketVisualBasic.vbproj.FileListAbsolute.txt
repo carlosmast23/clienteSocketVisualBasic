@@ -1,0 +1,10 @@
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\bin\Debug\ClienteSocketVisualBasic.exe.config
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\bin\Debug\ClienteSocketVisualBasic.exe
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\bin\Debug\ClienteSocketVisualBasic.pdb
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\bin\Debug\ClienteSocketVisualBasic.xml
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\obj\Debug\ClienteSocketVisualBasic.vbprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\obj\Debug\ClienteSocketVisualBasic.Resources.resources
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\obj\Debug\ClienteSocketVisualBasic.vbproj.GenerateResource.Cache
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\obj\Debug\ClienteSocketVisualBasic.exe
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\obj\Debug\ClienteSocketVisualBasic.xml
+c:\users\carlos\documents\visual studio 2015\Projects\ClienteSocketVisualBasic\ClienteSocketVisualBasic\obj\Debug\ClienteSocketVisualBasic.pdb
